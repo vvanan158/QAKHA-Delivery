@@ -1,7 +1,7 @@
 # QAKHA-Delivery
 
 * Description :
-The application uses the function of searching, ordering, viewing invoices, paying by momo and paying directly, vouchers, tracking the Deliver's location on delivery, evaluating after the order is successfully traded.
+The application uses the function of searching, ordering, viewing invoices, paying by coin and paying directly, vouchers, tracking the Deliver's location on delivery, evaluating after the order is successfully traded.
 The application finds the nearest restaurant by itself, after placing an order, the application will automatically find the nearest Deliveries.
 Deliver using the app to confirm the order or cancel the order, contact the orderer when there is a problem
 * Run application
